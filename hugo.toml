@@ -1,0 +1,9 @@
+baseURL = 'https://bdkabirkhan001-alt.github.io/B/'
+languageCode = 'bn-bd'
+title = 'Indian Videos'
+theme = 'hugo-theme-dream'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/gohugoio/hugo-theme-dream'
+    
